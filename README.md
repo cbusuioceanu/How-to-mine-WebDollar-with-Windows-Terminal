@@ -5,7 +5,7 @@
 #### 2. After you secured and downloaded your wallet to your Desktop:
 ####  a. Download and install latest version of Nodejs <a href="https://nodejs.org/en/download/">Latest version of Node.js</a> <- ctrl + click to open in a new window
 ####  b. Download and install Python2.7 <a href="https://www.python.org/ftp/python/2.7.13/python-2.7.13.amd64.msi">Python 2.7 X64</a> <- ctrl + click to open in a new window
-####  c. Download libeay32.lib. Create new folders in C:\OpenSSL-Win64\lib\<a href="https://github.com/ReadyTalk/win32/raw/master/msvc/lib/libeay32.lib">Python 2.7 X64</a> <- ctrl + click to open in a new window
+####  c. Download libeay32.lib. Create new folders in C:\OpenSSL-Win64\lib\ <a href="https://github.com/ReadyTalk/win32/raw/master/msvc/lib/libeay32.lib">Python 2.7 X64</a> <- ctrl + click to open in a new window
 ####  d. Download and unzip in C:\ -> <a href="https://github.com/WebDollar/Node-WebDollar/archive/master.zip">WebDollar Master - GitHub</a> <- ctrl + click to open in a new window
 #### 3. After unzipping, path should look like this: ```C:\Node-WebDollar```
 #### 4. Run cmd with Administrator Privileges and do:
