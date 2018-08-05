@@ -1,4 +1,4 @@
-# How-to-mine-WebDollar-with-Windows-Terminal
+# How to mine WebDollar with Windows Terminal
  Mine WebDollar with Windows Terminal
 
 #### 1. Create a WebDollar Wallet by using this tutorial -> <a href="https://github.com/cbusuioceanu/How-to-mine-WebDollar-with-your-Browser">Create a WebDollar Wallet</a> <- ctrl + click to open in a new window
