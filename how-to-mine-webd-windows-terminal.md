@@ -16,7 +16,7 @@ npm install
 ```
 ----
 ### CPU-CPP Optimization for Windows
-#### If you want to use this optimization, copy ```argon2-bench2.exe``` and ```libargon2.dll``` from this repository to your Node-WebDollar folder.?
+#### If you want to use this optimization, copy ```argon2-bench2.exe``` and ```libargon2.dll``` from this repository to your Node-WebDollar folder.
 #### Edit in *src/consts/const_global.js* the following: 
 ##### from ```TYPE: "cpu",``` to ```TYPE: "cpu-cpp",```
 #### from ```CPU_MAX: 0,``` to ```CPU_MAX: 12,``` -> # 12 is the number of threads. Change that to your CPU thread number.
