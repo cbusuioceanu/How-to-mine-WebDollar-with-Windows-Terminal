@@ -12,6 +12,7 @@ git clone https://github.com/WebDollar/Node-WebDollar.git
 cd C:\Node-WebDollar
 npm install --global --production windows-build-tools
 npm config set python python2.7
+npm config set python C:\Python27\python.exe
 npm install
 ```
 ----
