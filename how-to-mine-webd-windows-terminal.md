@@ -8,7 +8,7 @@
 ####  c. Download libeay32.lib & create new folders in C:\OpenSSL-Win64\lib\ <a href="https://github.com/ReadyTalk/win32/raw/master/msvc/lib/libeay32.lib">libeay32.lib</a> <- ctrl + click to open in a new window
 ####  d. Install Git for Windows from <a href="https://git-scm.com/download/win">here</a>
 ```shell
-open cmd
+open cmd # as administrator!
 cd C:\
 git clone https://github.com/WebDollar/Node-WebDollar.git
 cd C:\Node-WebDollar
